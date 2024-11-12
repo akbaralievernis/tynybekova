@@ -175,7 +175,7 @@
         <!-- Example add video  -->
         <video controls autoplay="autoplay" loop>
           <source
-            src="video_2024-11-12_17-59-08.mp4"
+            src="IMG_7854.MOV"
             type="video/mp4"
           />
         </video>
