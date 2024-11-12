@@ -85,10 +85,6 @@
           transparent
         );
       }
-      #music-container {
-        position: absolute;
-        top: 0;
-        left: 0;
       }
       @-webkit-keyframes spin {
         from {
