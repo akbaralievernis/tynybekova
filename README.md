@@ -79,6 +79,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
+  align:left;
 }
 @-webkit-keyframes spin {
   from{
