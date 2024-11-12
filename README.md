@@ -202,8 +202,7 @@
        + if imgWidth, imgHeight too small, play/pause button in <video> will be hidden
        + Music link are taken from: https://hoangtran0410.github.io/Visualyze-design-your-own-/?theme=HauMaster&playlist=1&song=1&background=28
        + Custom from code in tiktok video  https://www.facebook.com/J2TEAM.ManhTuan/videos/1353367338135935/
-*/
-      // ===================== start =======================
+*/ // ===================== start =======================
       setTimeout(init, 100);
       var odrag = document.getElementById("drag-container");
       var ospin = document.getElementById("spin-container");
