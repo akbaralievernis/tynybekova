@@ -161,13 +161,11 @@ body {
     <video controls autoplay="autoplay" loop>
       <source src="https://player.vimeo.com/external/322244668.sd.mp4?s=338c48ac2dfcb1d4c0689968b5baf94eee6ca0c1&profile_id=165&oauth2_token_id=57447761" type="video/mp4">
     </video>
-
     <!-- Text at center of ground -->
-    <p>3D Tiktok Carousel</p>
+    <p>Tynybekova Asema</p>
   </div>
   <div id="ground"></div>
 </div>
-
 <div id="music-container">
   <audio src="q0gesxuv17uquu1quscs.m4a"></audio>
 </div>
