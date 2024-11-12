@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -133,7 +132,6 @@
       }
     </style>
   </head>
-
   <body>
     <div id="drag-container">
       <div id="spin-container">
